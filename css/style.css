@@ -45,7 +45,6 @@ display: block;
   outline: none;
 }
 .body__link:hover, .body__link:focus {
-  /* color: rgb(228, 8, 45); */
   background-color: rgb(228, 8, 45);
   font-weight: 500;
 }
